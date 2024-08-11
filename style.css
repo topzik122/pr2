@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    max-width: 790px;
+    margin: 0 auto;
+    background-color: wheat;
+    gap: 20px;
+    padding: 20px;
+}
+
+.box {
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+}
+
+.gg {
+    background-color: #919191;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.odin {
+    height: 150px;
+}
+
+.dva {
+    height: 220px;
+}
+
+.trii {
+    height: 100px;
+}
+
+.chetiri {
+    height: 350px;
+}
+
+.text {
+    background-color: white;
+    padding: 20px;
+}
